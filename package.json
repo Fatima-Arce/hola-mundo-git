@@ -1,0 +1,11 @@
+{
+  "name": "hola-mundo-git",
+  "version": "1.0.0",
+  "description": "Hola mundo usando GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fatima Arce",
+  "license": "ISC"
+}
